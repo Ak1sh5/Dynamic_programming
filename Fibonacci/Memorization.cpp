@@ -1,5 +1,5 @@
 //Tc: O(n)
-//SC: O(n)
+//SC: O(n)*O(n)
 
 #include <iostream>
 #include<vector>
