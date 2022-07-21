@@ -1,0 +1,5 @@
+1.Tabulation method--> Bottom up approach
+2.Memorrization --> Top down apporach
+
+Overalapping subsequence: Calculating the value of a sub problem which has already been calculated. For example in fibonacci series of 5 in recursion tree if we                           have already calculated fib(2) in fib(4) side and when we need to caluclated fib(3) side we again tend to calculate fib(2) so this 
+                          scenario is called Overlapping subsequence.
